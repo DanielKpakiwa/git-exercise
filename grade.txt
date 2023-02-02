@@ -3,3 +3,4 @@ Name     Grade
 daniel    80
 Alpha     90
 jenneh	   60
+Denis      50
